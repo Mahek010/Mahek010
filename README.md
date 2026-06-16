@@ -1,5 +1,15 @@
 # Hi 👋, I'm Mahek Pankhaniya
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![UAV](https://img.shields.io/badge/UAV-Research-success?style=for-the-badge)
+
+![Optimization](https://img.shields.io/badge/Optimization-Engineering-blue?style=for-the-badge)
+
+![Simulation](https://img.shields.io/badge/Simulation-Modeling-orange?style=for-the-badge)
+
+![Autonomous Systems](https://img.shields.io/badge/Autonomous-Systems-red?style=for-the-badge)
+
 🚁 UAV Systems | Optimization & Simulation Engineer
 
 🎓 M.Sc. Mathematical Modelling, Simulation & Optimization
