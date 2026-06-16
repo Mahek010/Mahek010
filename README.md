@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi 👋, I'm Mahek Pankhaniya
 
-<!--
-**Mahek010/Mahek010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚁 UAV Systems | Optimization & Simulation Engineer
 
-Here are some ideas to get you started:
+🎓 M.Sc. Mathematical Modelling, Simulation & Optimization
+🇩🇪 Based in Germany
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Research Interests
+
+- UAV Systems & Autonomous Navigation
+- Mathematical Modelling
+- Simulation & Optimization
+- Robotics & Autonomous Systems
+- Path Planning Algorithms
+- AI for Engineering Applications
+
+---
+
+## 🚀 Featured Project
+
+### Energy-Efficient UAV Trajectory Optimization using PSO
+
+Developed a Python-based UAV trajectory optimization framework using Particle Swarm Optimization (PSO) for autonomous path planning in obstacle-rich environments.
+
+🔗 Project Repository:
+github.com/Mahek010/uav-trajectory-optimization-pso
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming
+
+Python • MATLAB • SQL
+
+### Optimization
+
+Particle Swarm Optimization (PSO)
+Differential Evolution
+Numerical Optimization
+
+### Simulation & Engineering
+
+Mathematical Modelling
+Engineering Simulation
+Data Analysis
+Control Systems
+
+### Tools
+
+Git • GitHub • Jupyter Notebook • NumPy • Pandas • Matplotlib
+
+---
+
+## 📚 Current Focus
+
+- UAV Path Planning
+- Autonomous Systems
+- Reinforcement Learning for Robotics
+- Flight Dynamics & Control
+- ROS2 & PX4 Simulation
+
+---
+
+## 🌐 Connect With Me
+
+GitHub:
+github.com/Mahek010
+
+Email:
+pankhaniyam18@gmail.com
+
+
